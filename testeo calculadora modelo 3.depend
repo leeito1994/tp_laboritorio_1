@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1567637226 source:c:\users\luisa\desktop\testeo calculadora modelo 3\main.c
+	"test3.h"
+
+1567642791 c:\users\luisa\desktop\testeo calculadora modelo 3\test3.h
+	"stdio.h"
+
+1567642791 source:c:\users\luisa\desktop\testeo calculadora modelo 3\test3.c
+	"test3.h"
+
+1567637226 source:c:\users\luisa\desktop\calculadora definitivo\main.c
+	"test3.h"
+
+1567719977 c:\users\luisa\desktop\calculadora definitivo\test3.h
+	"stdio.h"
+
+1567721530 source:c:\users\luisa\desktop\calculadora definitivo\test3.c
+	"test3.h"
+
