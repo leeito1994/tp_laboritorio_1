@@ -64,9 +64,25 @@ void calcular(float num1, float num2)
                 {
                     printf("Error, no es posible realizar una division por cero.\n");
                 }
-                printf("el factorial de %f es %f\n",num1,resultadoFactorial1);
 
-                printf("el factorial de %f es %f",num2,resultadoFactorial2);
+                if(num1 < 35)
+                {
+
+                printf("el factorial de %f es %f\n",num1,resultadoFactorial1);
+                }
+                else
+                {
+                    printf("no es posible mostrar el factorial, ingrese un numero menor a 35\n");
+                }
+
+                if(num2 < 34)
+                {
+                    printf("el factorial de %f es %f",num2,resultadoFactorial2);
+                }
+                else
+                {
+                    printf("no es posible mostrar el factorial, ingrese un numero menor a 35");
+                }
 
                 printf("\n\n 5 para salir o ingrese numeros nuevamente. \n");
             }
